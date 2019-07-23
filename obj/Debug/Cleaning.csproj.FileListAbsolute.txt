@@ -1,0 +1,36 @@
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.exe.config
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.exe
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.pdb
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.exe
+c:\users\lukas\documents\visual studio 2015\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.pdb
+X:\MES_Team\Lukas\Cleaning\Cleaning\obj\Debug\Cleaning.exe
+X:\MES_Team\Lukas\Cleaning\Cleaning\obj\Debug\Cleaning.pdb
+X:\MES_Team\Lukas\Cleaning\Cleaning\obj\Debug\Cleaning.csprojResolveAssemblyReference.cache
+X:\MES_Team\Lukas\Cleaning\Cleaning\bin\Debug\Cleaning.exe
+X:\MES_Team\Lukas\Cleaning\Cleaning\bin\Debug\Cleaning.pdb
+C:\Users\lukas\Desktop\Cleaning\Cleaning\obj\Debug\Cleaning.exe
+C:\Users\lukas\Desktop\Cleaning\Cleaning\obj\Debug\Cleaning.pdb
+C:\Users\lukas\Desktop\Cleaning\Cleaning\bin\Debug\Cleaning.exe
+C:\Users\lukas\Desktop\Cleaning\Cleaning\bin\Debug\Cleaning.pdb
+C:\Users\lukas\Desktop\Cleaning\Cleaning\obj\Debug\Cleaning.csprojResolveAssemblyReference.cache
+X:\MES_Team\Lukas\Cleaning\obj\Debug\Cleaning.exe
+X:\MES_Team\Lukas\Cleaning\obj\Debug\Cleaning.pdb
+X:\MES_Team\Lukas\Cleaning\bin\Debug\Cleaning.exe
+X:\MES_Team\Lukas\Cleaning\bin\Debug\Cleaning.pdb
+X:\MES_Team\Lukas\Cleaning\obj\Debug\Cleaning.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\bin\Debug\Cleaning.exe
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\bin\Debug\Cleaning.pdb
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\obj\Debug\Cleaning.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\obj\Debug\Cleaning.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\obj\Debug\Cleaning.exe
+C:\Users\Lukas\Downloads\Cleaning11\Cleaning\obj\Debug\Cleaning.pdb
+D:\Lukas\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.exe.manifest
+D:\Lukas\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.application
+D:\Lukas\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.exe
+D:\Lukas\Projects\Cleaning\Cleaning\bin\Debug\Cleaning.pdb
+D:\Lukas\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.csproj.CoreCompileInputs.cache
+D:\Lukas\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.exe.manifest
+D:\Lukas\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.application
+D:\Lukas\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.exe
+D:\Lukas\Projects\Cleaning\Cleaning\obj\Debug\Cleaning.pdb
