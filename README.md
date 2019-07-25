@@ -14,24 +14,43 @@ Můžete použít app, stahnout ji ze store, nebo jen otevirat postupne(pokud to
 Open-Multiple-URLs
 
 https://ibb.co/fCBmhRd
+
 https://ibb.co/2WRpgVM
+
 https://ibb.co/7nGV1Fr
+
 https://ibb.co/G3QMVWN
+
 https://ibb.co/LpwhxHg
+
 https://ibb.co/NZjkyV2
+
 https://ibb.co/smDcrr0
+
 https://ibb.co/kh7M4VZ
+
 https://ibb.co/M2ynyf5
+
 https://ibb.co/qRpPd9p
+
 https://ibb.co/R7HN6PK
+
 https://ibb.co/0h048jm
+
 https://ibb.co/rwpp0nt
+
 https://ibb.co/pQngj57
+
 https://ibb.co/xmv3P7z
+
 https://ibb.co/YN315qZ
+
 https://ibb.co/mJG3yRk
+
 https://ibb.co/ydMKRqX
+
 https://ibb.co/47rCdkF
+
 https://ibb.co/hMqcfXb
 
 út 9. 7. 2019 v 8:17 odesílatel Zachová Lucie <Lucie.Zachova@autocont.cz> napsal:
