@@ -1,10 +1,8 @@
 Lukáš Ryška <ryska.lukas@gmail.com>
 7:10 (před 9 minutami)
-komu: Zachová
 
 
 K doplnění k mému CV, dodatečně jsem na GitHub a Repository pro obrázky, dole jsou odkazy.
-Pokud by jste byla tak hodná a p. J.Knybel přeposlala tuto zprávu, budu Vám vděčný, děkuji.
 
 S pozdravem, L.Ryška
 
