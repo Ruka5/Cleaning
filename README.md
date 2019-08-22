@@ -51,12 +51,6 @@ https://ibb.co/47rCdkF
 
 https://ibb.co/hMqcfXb
 
-út 9. 7. 2019 v 8:17 odesílatel Zachová Lucie <Lucie.Zachova@autocont.cz> napsal:
-
-
-
-Jen upozornuji, zde jsou jen me app., mnou poskladane z googlu vyhledavace D nikoho jineho, dekuji.
-
 ***************************************************************************************
 
 cleaning of IPC repository space
